@@ -2,3 +2,4 @@
 -This is a neural network that classifies patients based on the severity and probability of acquiring type-2 diabetes.
 - Dataset available on kaggle- PIMA Indian diabetes dataset
 - Install pandas profile report to generate the EDA html report.
+- For complete reference, view the forked repo '6th-SEM-Miniproject'  [dependecy issues are resolved here,as code was first run on a team mate's system]
